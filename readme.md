@@ -6,8 +6,7 @@ Estos son una serie de ejemplos que se encuentran en la materia Automatización 
 
 Para probar estos scripts, se recomienda:
 
-- **Matlab Online**  
-  o
+- **Matlab Online**  No se requiere ninguna instalación adicional.
 - **Matlab local** con las siguientes librerías instaladas:
 
   - Control System Toolbox
@@ -19,8 +18,6 @@ Para probar estos scripts, se recomienda:
 
 ## Capítulos incluidos
 
-- Capítulo 4: [Descripción breve si es necesario]
-- Capítulo 5: [Descripción breve si es necesario]
-- Capítulo 6: [Descripción breve si es necesario]
-- Capítulo 7: [Descripción breve si es necesario]
-- Capítulo 8: [Descripción breve si es necesario]
+- Capítulo 4 y 5: Transformada de LAPLACE,  solución a EDO y ejercicos con MATLAB.
+- Capítulo 6 y 7:  Función de transferencia, modelado matemático, linealización ,control PID y diagramas de bloques.
+- Capítulo 8:  Respuesta transistoria.
